@@ -1,0 +1,19 @@
+Purpose and Scope
+Ref : LISA-LCST-MIS-POL-001 Issue : 1 Revision : 0 Date : 2018/06/13 Page : 4/ 5
+The scope of this document is to describe the code of conduct of the LISA Consortium. This is applicable to all Consortium members.
+1 Statement
+The LISA Consortium expects any associate or full member, in any position of power or otherwise, to know and follow this Code of Conduct. We therefore ask all members to read this document and agree to it.
+The LISA Consortium fosters a fully inclusive, safe and stimulating working environment, therefore we condemn any form of harassment, bullying, discrimination and retaliation.
+Every member of the LISA Consortium commits to engage in constructive professional and social relation- ships both within the Consortium and with the community at large, avoiding any kind of harassment, bullying, discrimination and retaliation, as defined below.
+The Consortium management will seriously investigate any possible violation of the Code and, if the investigation determines that a violation has occurred, the measures that will be taken might range from a private reprimand to a membership termination and an official report filed to the member(s)’s home institution.
+2 Definitions
+The LISA consortium adopts the definition of sexual harassment and other harassment of the Anti- Harassment Policy for Meetings and Activities of the American Astronomical Society and Divisions (https://aas.org/policies/anti-harassment-policy). In the following, we report their definition
+Definition of Sexual Harassment
+Sexual harassment refers to unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Behavior and language that are wel- come/acceptable to one person may be unwelcome/offensive to another. Consequently, in- dividuals must use discretion to ensure that their words and actions communicate respect for others. This is especially important for those in positions of authority since individ- uals with lower rank or status may be reluctant to express their objections or discomfort regarding unwelcome behavior.
+Sexual harassment does not refer to occasional compliments of a socially acceptable na- ture. It refers to behavior that is not welcome, is personally offensive, debilitates morale, and therefore, interferes with work effectiveness. The following are examples of behavior that, when unwelcome, may constitute sexual harassment: sexual flirtations, advances, or propositions; verbal comments or physical actions of a sexual nature; sexually degrading words used to describe an individual; a display of sexually suggestive objects or pictures; sexually explicit jokes; unnecessary touching.
+Definition of Other Harassment
+Harassment and bullying on the basis of any other protected characteristic is also strictly prohibited. This conduct includes, but is not limited to the following: epithets, slurs, or negative stereotyping; threatening, intimidating, or hostile acts (in person or via e-mail); denigrating jokes and display or circulation of written or graphic material that denigrates or shows hostility or aversion toward an individual or group. Even in cases where an individual victim cannot be identified, lewd, offensive, or inappropriate behavior may be construed as harassment and cannot be tolerated in a professional, collegial environment.
+Definition of Discrimination
+Discrimination refers to bias or prejudice resulting in denial of opportunity, or unfair treat- ment regarding selection, promotion, or transfer. Discrimination is practiced commonly on the grounds of age, disability, ethnicity, origin, political belief, race, religion, sex, etc. factors which are irrelevant to a person’s competence or suitability.
+Definition of Retaliation
+Retaliation refers to taking some action to negatively impact another based on them re- porting an act of discrimination or harassment.
