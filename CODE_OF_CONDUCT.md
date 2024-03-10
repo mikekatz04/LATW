@@ -1,5 +1,4 @@
 Purpose and Scope
-Ref : LISA-LCST-MIS-POL-001 Issue : 1 Revision : 0 Date : 2018/06/13 Page : 4/ 5
 The scope of this document is to describe the code of conduct of the LISA Consortium. This is applicable to all Consortium members.
 1 Statement
 The LISA Consortium expects any associate or full member, in any position of power or otherwise, to know and follow this Code of Conduct. We therefore ask all members to read this document and agree to it.
