@@ -1,3 +1,5 @@
+# LATW Code of Conduct
+
 ## Purpose and Scope
 
 The scope of this document is to describe the code of conduct for the LISA Analysis Tools Workshop. This is applicable to all workshop participants.
