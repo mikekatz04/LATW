@@ -19,7 +19,7 @@ This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tu
 
 # Installation
 
-LATW leverages conda environments to install and use necessary packages. 
+LATW leverages conda environments to install and use necessary packages. If you do not have [Anaconda](https://www.anaconda.com/download) or [miniconda](https://docs.anaconda.com/free/miniconda/index.html) installed, you must do this first and load your `base` conda environment. 
 
 Install all packages necessary for the tutorials by running:
 ```
