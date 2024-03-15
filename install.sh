@@ -99,11 +99,11 @@ if [[ "$machine" == "arm64" ]]; then
     "$pip_here" install git+https://github.com/mikekatz04/GBGPU.git --ccbin /usr/bin/
     "$pip_here" install git+https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms.git --ccbin /usr/bin/
 else
-    "$pip_here" install lisaanalysistools
-    "$pip_here" install git+https://github.com/mikekatz04/lisa-on-gpu.git@orbits_dev
-    "$pip_here" install git+https://github.com/mikekatz04/BBHx.git
-    "$pip_here" install git+https://github.com/mikekatz04/GBGPU.git
-    "$pip_here" install git+https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms.git
+    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ lisaanalysistools
+    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastlisaresponse
+    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ bbhx
+    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastemriwaveforms
+    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ gbgpu
 fi
 
 conda activate "$env_name"
