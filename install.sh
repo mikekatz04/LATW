@@ -92,19 +92,11 @@ echo "pip: $pip_here"
 
 machine=$(uname -m)
 
-if [[ "$machine" == "arm64" ]]; then
-    "$pip_here" install lisaanalysistools --ccbin /usr/bin/
-    "$pip_here" install git+https://github.com/mikekatz04/lisa-on-gpu.git@orbits_dev --ccbin /usr/bin/
-    "$pip_here" install git+https://github.com/mikekatz04/BBHx.git --ccbin /usr/bin/
-    "$pip_here" install git+https://github.com/mikekatz04/GBGPU.git --ccbin /usr/bin/
-    "$pip_here" install git+https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms.git --ccbin /usr/bin/
-else
-    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ lisaanalysistools
-    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastlisaresponse
-    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ bbhx
-    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastemriwaveforms
-    "$python_here" -m pip install --index-url https://test.pypi.org/simple/ gbgpu
-fi
+"$python_here" -m pip install --index-url https://test.pypi.org/simple/ lisaanalysistools
+"$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastlisaresponse
+"$python_here" -m pip install --index-url https://test.pypi.org/simple/ bbhx
+"$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastemriwaveforms
+"$python_here" -m pip install --index-url https://test.pypi.org/simple/ gbgpu
 
 conda activate "$env_name"
 # if [[ "$run_tests" == "true" ]]; 
