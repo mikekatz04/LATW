@@ -1,6 +1,6 @@
 # LISA Analysis Tools Workshop (LATW)
 
-This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [examples](examples/) directory. The tutorials are numbered as follows:
+This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [tutorials](tutorials/) directory. The tutorials are numbered as follows:
 
 0) Introductory tutorial for helpful Python concepts related to the successful usage of LISA Analysis Tools packages. This also gives the user a flavor of what the tutorials are like. 
 
@@ -21,6 +21,12 @@ This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tu
 
 LATW leverages conda environments to install and use necessary packages. If you do not have [Anaconda](https://www.anaconda.com/download) or [miniconda](https://docs.anaconda.com/free/miniconda/index.html) installed, you must do this first and load your `base` conda environment. 
 
+First, clone the repo and `cd` to the `LATW` directory.:
+```
+git clone https://github.com/mikekatz04/LATW.git
+cd LATW/
+```
+
 Install all packages necessary for the tutorials by running:
 ```
 bash install.sh
@@ -33,7 +39,7 @@ Once installation is completed, `cd` to the tutorial directory and run `jupyter 
 
 # Code of Conduct
 
-In [CODE_OF_CONDUCT.md], you will find the workshop code of conduct. It is heavily based on the LISA Consortium code of conduct. We strongly advise anyone who uses these tutorials in any way to follow this code of conduct. 
+In [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), you will find the workshop code of conduct. It is heavily based on the LISA Consortium code of conduct. We strongly advise anyone who uses these tutorials in any way to follow this code of conduct. 
 
 # Authors
 
