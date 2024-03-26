@@ -92,11 +92,11 @@ echo "pip: $pip_here"
 
 machine=$(uname -m)
 
-"$python_here" -m pip install --index-url https://test.pypi.org/simple/ lisaanalysistools
-"$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastlisaresponse
-"$python_here" -m pip install --index-url https://test.pypi.org/simple/ bbhx
-"$python_here" -m pip install --index-url https://test.pypi.org/simple/ fastemriwaveforms
-"$python_here" -m pip install --index-url https://test.pypi.org/simple/ gbgpu
+"$python_here" -m pip install lisaanalysistools
+"$python_here" -m pip install fastlisaresponse
+"$python_here" -m pip install bbhx
+"$python_here" -m pip install fastemriwaveforms
+"$python_here" -m pip install gbgpu
 
 conda activate "$env_name"
 # if [[ "$run_tests" == "true" ]]; 
