@@ -53,5 +53,5 @@ In [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), you will find the workshop code of 
 * Albin Nilsson
 * Rodrigo Tenorio
 * Durgesh Rai
-* Lorenzo Speri
+* Christian Chapman-Bird
 
