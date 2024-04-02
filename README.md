@@ -16,6 +16,8 @@ This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tu
 
 6) Galactic Binaries: analyze Galactic binary waveforms and use them in MCMC and RJMCMC analyses. We will use [GBGPU](https://mikekatz04.github.io/GBGPU) to produce waveforms using the FastGB waveform construction method in the frequency domain. 
 
+There will be a challenge problem added during the workshop. 
+
 
 # Installation
 
