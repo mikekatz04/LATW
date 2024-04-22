@@ -1,6 +1,6 @@
 # LISA Analysis Tools Workshop (LATW)
 
-This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [tutorials](tutorials/) directory. The tutorials are numbered as follows:
+This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [tutorials](tutorials/) directory. In that same directory, you will find the answer keys. Introductory talk recordings can be found [here](https://www.youtube.com/playlist?list=PLdWF50RX1STO2DbfkqlBbhhaDdLTETAE7). PDF versions of the slides are in [intro_talks](intro_talks/). The tutorials are numbered as follows:
 
 0) Introductory tutorial for helpful Python concepts related to the successful usage of LISA Analysis Tools packages. This also gives the user a flavor of what the tutorials are like. 
 
@@ -16,7 +16,7 @@ This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tu
 
 6) Galactic Binaries: analyze Galactic binary waveforms and use them in MCMC and RJMCMC analyses. We will use [GBGPU](https://mikekatz04.github.io/GBGPU) to produce waveforms using the FastGB waveform construction method in the frequency domain. 
 
-There will be a challenge problem added during the workshop. 
+There is also a challenge problem on designing a mini global fit. 
 
 
 # Installation
