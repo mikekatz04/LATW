@@ -1,6 +1,10 @@
 # LISA Analysis Tools Workshop (LATW)
 
-This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [tutorials](tutorials/) directory. In that same directory, you will find the answer keys. Introductory talk recordings can be found [here](https://www.youtube.com/playlist?list=PLdWF50RX1STO2DbfkqlBbhhaDdLTETAE7). PDF versions of the slides are in [intro_talks](intro_talks/). The tutorials are numbered as follows:
+This repo houses the tutorial codes for the LISA Analysis Tools Workshop. The tutorials are stored in the [tutorials](tutorials/) directory. In that same directory, you will find the answer keys. Introductory talk recordings can be found [here](https://www.youtube.com/playlist?list=PLdWF50RX1STO2DbfkqlBbhhaDdLTETAE7). PDF versions of the slides are in [intro_talks](intro_talks/). 
+
+If you participate in a LAT workshop or work through the tutorials, please fill out this [survey](https://forms.gle/DFEBFRHSD1HRZ4HU9). We would really appreciate it!
+
+The tutorials are numbered as follows:
 
 0) Introductory tutorial for helpful Python concepts related to the successful usage of LISA Analysis Tools packages. This also gives the user a flavor of what the tutorials are like. 
 
