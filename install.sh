@@ -88,7 +88,7 @@ pip_here=""$conda_base"/envs/"$env_name"/bin/pip"
 echo "python: $python_here" 
 echo "pip: $pip_here"
 
-"$pip_here" install corner eryn chainconsumer;
+"$pip_here" install corner eryn chainconsumer mpmath;
 
 machine=$(uname -m)
 
