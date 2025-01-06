@@ -25,6 +25,8 @@ There is also a challenge problem on designing a mini global fit.
 
 # Installation
 
+All tutorials can be run in Google Colab. There is a cell at the beginning of each tutorial that you can uncomment and run that will install necessary packages (for each tutorial) into the Colab environment. 
+
 LATW leverages conda environments to install and use necessary packages. If you do not have [Anaconda](https://www.anaconda.com/download) or [miniconda](https://docs.anaconda.com/free/miniconda/index.html) installed, you must do this first and load your `base` conda environment. 
 
 First, clone the repo and `cd` to the `LATW` directory.:
